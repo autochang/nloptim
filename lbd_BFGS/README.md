@@ -1,0 +1,3 @@
+- Algorithm: Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm
+- Add-ons: Backtracking line search; Limited memory; Damping
+- Application: Rosenbrock problem
